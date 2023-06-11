@@ -9,10 +9,11 @@
 }
 
 .singlePostImg {
-  width: 100%;
-  height: 400px;
+  width: 50%;
+  height: 500px;
   border-radius: 5px;
   object-fit: cover;
+  margin: 0px 250px;
 }
 
 .singlePostTitle {

@@ -9,7 +9,9 @@
   flex-direction: column;
   align-items: center;
 }
-
+.sidebarImg {
+  object-fit: cover;
+}
 .sidebarItem {
   display: flex;
   flex-direction: column;

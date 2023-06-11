@@ -5,10 +5,10 @@
   align-items: center;
   justify-content: center;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.1),
-      rgba(255, 255, 255, 0.1)
+      rgba(255, 255, 255, 0.35),
+      rgba(255, 255, 255, 0.35)
     ),
-    url("https://i.pinimg.com/originals/36/cc/87/36cc875c5d245ef9de0eca981e96374c.jpg");
+    url("https://wallpapercave.com/wp/wp5475498.jpg");
   background-size: cover;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .loginButton {
-  margin-top: 20px;
+  margin-top: 40px;
   cursor: pointer;
   background-color: lightcoral;
   border: none;

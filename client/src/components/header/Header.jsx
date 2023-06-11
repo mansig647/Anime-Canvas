@@ -4,12 +4,12 @@ export default function header() {
   return (
     <div className="header">
       <div className="headerTitles">
-        <span className="headerTitleSm">React & Node</span>
-        <span className="headerTitleLg">Blog</span>
+        <span className="headerTitleLg">Anime</span>
+        <span className="headerTitleSm">Canvas</span>
       </div>
       <img
         className="headerImg"
-        src="https://i.pinimg.com/originals/5f/e5/6f/5fe56fbf6ecfceb0fe643d8361e945d7.jpg"
+        src="https://trumpwallpapers.com/wp-content/uploads/Shinchan-Wallpaper-14-1920x1080-1.jpg"
         alt=""
       />
     </div>

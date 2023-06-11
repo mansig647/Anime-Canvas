@@ -17,13 +17,11 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://www.pinkvilla.com/images/2022-12/1671445810_316776381_964906044488171_8616256644365963576_n.jpg"
+          src="https://i.imgur.com/8vSBvhj.jpg"
           alt=""
+          className="sidebarImg"
         />
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi neque
-          vel sapiente voluptatum hic.
-        </p>
+        <p>Let's draw together.</p>
       </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>

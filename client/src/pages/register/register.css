@@ -5,10 +5,10 @@
   align-items: center;
   justify-content: center;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.45),
-      rgba(255, 255, 255, 0.45)
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3)
     ),
-    url("https://wallpaperaccess.com/full/7178251.png");
+    url("https://wallpaperaccess.com/full/8427872.jpg");
   background-size: cover;
 }
 
@@ -34,7 +34,7 @@
 .registerButton {
   margin-top: 20px;
   cursor: pointer;
-  background-color: teal;
+  background-color: lightcoral;
   border: none;
   color: white;
   border-radius: 10px;
@@ -45,7 +45,7 @@
   position: absolute;
   top: 60px;
   right: 20px;
-  background-color: lightcoral;
+  background-color: teal;
   cursor: pointer;
   border: none;
   padding: 10px;
